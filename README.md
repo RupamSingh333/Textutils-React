@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://rupamsingh333.github.io/Textutils-React).
+This project was bootstrapped with [https://rupamsingh333.github.io/Textutils-React](https://rupamsingh333.github.io/Textutils-React).
 
 ## Available Scripts
 
